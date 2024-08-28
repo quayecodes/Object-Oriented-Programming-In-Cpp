@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1719007933 source:c:\users\user\desktop\new\getters and setters in c++\main.cpp
+	<iostream>
+	"object.h"
+
+1719008752 c:\users\user\desktop\new\getters and setters in c++\include\object.h
+	<iostream>
+
+1719008751 source:c:\users\user\desktop\new\getters and setters in c++\src\object.cpp
+	"object.h"
+
