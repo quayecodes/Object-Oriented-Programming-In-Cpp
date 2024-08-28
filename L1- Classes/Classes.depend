@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718974817 source:c:\users\user\desktop\new\classes\new.cpp
+	<iostream>
+	"new.h"
+
+1718975107 source:c:\users\user\desktop\new\classes\main.cpp
+	<iostream>
+	"new.h"
+
+1718974817 c:\users\user\desktop\new\classes\new.h
+
