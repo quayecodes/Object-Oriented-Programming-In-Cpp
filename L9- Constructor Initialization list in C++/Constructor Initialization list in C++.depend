@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1719959022 source:c:\users\user\desktop\this\constructor initialization list in c++\src\list.cpp
+	"list.h"
+	<sstream>
+
+1719959293 c:\users\user\desktop\this\constructor initialization list in c++\list.h
+	<iostream>
+
+1719959447 source:c:\users\user\desktop\this\constructor initialization list in c++\main.cpp
+	<iostream>
+	"list.h"
+
