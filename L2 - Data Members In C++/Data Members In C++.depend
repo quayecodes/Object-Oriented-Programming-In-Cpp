@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718986726 source:c:\users\user\desktop\new\data members in c++\src\code.cpp
+	<iostream>
+	"code.h"
+
+1718986295 c:\users\user\desktop\new\data members in c++\include\code.h
+
+1718986486 source:c:\users\user\desktop\new\data members in c++\main.cpp
+	<iostream>
+	"code.h"
+
