@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1719954330 source:c:\users\user\desktop\this\this statemet in c++\about.cpp
+	"about.h"
+	<sstream>
+
+1719954292 c:\users\user\desktop\this\this statemet in c++\about.h
+	<iostream>
+
+1719955158 source:c:\users\user\desktop\this\this statemet in c++\main.cpp
+	<iostream>
+	"about.h"
+
