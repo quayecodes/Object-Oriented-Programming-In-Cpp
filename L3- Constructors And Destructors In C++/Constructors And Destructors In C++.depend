@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1718991515 source:c:\users\user\desktop\new\constructors and destructors in c++\src\practice.cpp
+	<iostream>
+	"practice.h"
+
+1718990642 c:\users\user\desktop\new\constructors and destructors in c++\include\practice.h
+
+1718991706 source:c:\users\user\desktop\new\constructors and destructors in c++\main.cpp
+	<iostream>
+	"practice.h"
+
