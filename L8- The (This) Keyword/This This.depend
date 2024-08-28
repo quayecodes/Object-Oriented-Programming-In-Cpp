@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1719957721 source:c:\users\user\desktop\this\this this\main.cpp
+	<iostream>
+	"this.h"
+
+1719956314 c:\users\user\desktop\this\this this\this.h
+	<iostream>
+
+1719957484 source:c:\users\user\desktop\this\this this\this.cpp
+	"this.h"
+	<sstream>
+
