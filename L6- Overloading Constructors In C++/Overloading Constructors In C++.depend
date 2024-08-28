@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1719091022 source:c:\users\user\desktop\new\overloading constructors in c++\src\construct.cpp
+	"construct.h"
+	<sstream>
+
+1719090867 c:\users\user\desktop\new\overloading constructors in c++\construct.h
+	<iostream>
+
+1719091080 source:c:\users\user\desktop\new\overloading constructors in c++\main.cpp
+	<iostream>
+	"construct.h"
+
